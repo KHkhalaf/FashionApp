@@ -27,5 +27,6 @@ namespace FashionApp
         {
             // Handle when your app resumes
         }
+
     }
 }
